@@ -1,0 +1,11 @@
+# Harness
+psutil>=5.9
+numpy>=1.26
+# LangChain baseline (pin exact versions at run time and record them)
+langchain>=0.2
+langchain-openai>=0.1
+langchain-community>=0.2
+# RocketRide SDK
+rocketride>=0.1
+# Utilities
+python-dotenv>=1.0

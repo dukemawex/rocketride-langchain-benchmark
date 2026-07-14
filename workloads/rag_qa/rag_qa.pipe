@@ -1,0 +1,5 @@
+{
+  "_comment": "Placeholder RocketRide pipeline. Build the real one visually in the VS Code extension, export the .pipe JSON here, and keep model/prompt identical to the LangChain chain.",
+  "nodes": [],
+  "edges": []
+}
